@@ -8,3 +8,4 @@ Possibilities:
 - a fantasy league auto-drafter
 - a clone of that card game with the red and blue dragons!!
 - hangman
+- everything on the FCC take home project list, but not necessarily in JS

@@ -18,3 +18,4 @@ Possibilities:
 - a thing that takes a picture and draws it as an outline
 - a thing that sends you/people a text message when there are weather events (it's raining, it's a snow day, etc)
 - RELEVANT TO MY LIFE: a pre-move inventory of stuff
+- ticketing system

@@ -21,3 +21,5 @@ Possibilities:
 - ticketing system
 - tax estimator
 - twitter (functionality) clone
+- pacman, breakout, pong, space invaders... any arcade game
+- some of the projects from the Impractical Python Projects book

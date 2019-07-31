@@ -17,9 +17,10 @@ Possibilities:
 - tax estimator
 - a thing that takes a picture and draws it as an outline
 - a thing that sends you/people a text message when there are weather events (it's raining, it's a snow day, etc)
-- RELEVANT TO MY LIFE: a pre-move inventory of stuff
+- RELEVANT TO MY LIFE: a pre-move inventory of stuff (DONE)
 - ticketing system
 - tax estimator
 - twitter (functionality) clone
 - pacman, breakout, pong, space invaders... any arcade game
 - some of the projects from the Impractical Python Projects book
+- decimal time clock
